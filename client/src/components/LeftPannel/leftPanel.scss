@@ -1,0 +1,9 @@
+.leftPanel{
+	height: calc(100vh - 60px);
+	margin: 0;
+	background-color: violet;
+	width: 20%;
+	.active{
+		background-color: yellowgreen;
+	}
+}

@@ -1,0 +1,36 @@
+.header {
+  height: 60px;
+  width: 100vw;
+  background-color: crimson;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.header .header_logo {
+  margin: auto 20px;
+}
+
+.header .header_input {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header .header_input div {
+  height: 40px;
+  width: 80px;
+  background-color: teal;
+  margin: auto 20px;
+}
+
+.header .header_input input {
+  height: 40px;
+  border: 0;
+  outline: none;
+  margin: auto;
+}
+/*# sourceMappingURL=header.css.map */

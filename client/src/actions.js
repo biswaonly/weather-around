@@ -1,0 +1,1 @@
+export const SET_OPEN_API_DATA = "SET_OPEN_API_DATA";

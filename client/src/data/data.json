@@ -1,0 +1,76 @@
+{
+	"data" : [
+		{
+			"id" : 1,
+			"listName" : "Weekend List",
+			"priority" : 1,
+			"items": [
+				{"productId": 101,
+					"count" : 2
+				}
+			],
+			"total" : 300,
+			"date" : "Fri Jan 25 2019 01:17:07 GMT+0530 (IST)"
+		},
+		{
+			"id" : 2,
+			"listName" : "Birthday Party",
+			"priority" : 3,
+			"items": [
+					{"productId": 101,
+						"count" : 2
+					},
+					{"productId": 104,
+						"count" : 5
+					},
+					{"productId": 103,
+						"count" : 1
+					}
+				],
+			"total" : 213,
+			"date" : "Fri Jan 20 2019 04:17:07 GMT+0530 (IST)"
+		},
+		{
+			"id" : 3,
+			"listName" : "Monthly Grocery",
+			"priority" : 2,
+			"items": [
+				{"productId": 102,
+					"count" : 2
+				},
+				{"productId": 103,
+					"count" : 5
+				}
+			],
+			"total" : 645,
+			"date" : "Fri Dec 23 2019 01:30:07 GMT+0530 (IST)"
+		},
+		{
+			"id" : 4,
+			"listName" : "Mother's Choice",
+			"priority" : 3,
+			"items": [
+				{"productId": 106,
+					"count" : 2
+				},
+				{"productId": 108,
+					"count" : 5
+				},
+				{"productId": 103,
+					"count" : 1
+				},
+				{"productId": 104,
+					"count" : 1
+				},
+				{"productId": 109,
+					"count" : 1
+				},
+				{"productId": 107,
+					"count" : 1
+				}
+			],
+			"total" : 238,
+			"date" : "Fri Feb 3 2019 19:19:19 GMT+0530 (IST)"
+		}
+	]
+}

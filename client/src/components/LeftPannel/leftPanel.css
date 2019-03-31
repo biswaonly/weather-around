@@ -1,0 +1,11 @@
+.leftPanel {
+  height: calc(100vh - 60px);
+  margin: 0;
+  background-color: violet;
+  width: 20%;
+}
+
+.leftPanel .active {
+  background-color: yellowgreen;
+}
+/*# sourceMappingURL=leftPanel.css.map */
